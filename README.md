@@ -4,10 +4,12 @@ Dado que soy solo una persona, he simulado la situación que se pide en el enunc
 De esta manera, el plan es generar dos ramas distintas y provocar un conflicto para resolver entre ambas.
 
 Rama 1 (feature1):
-![feature1](![image](https://github.com/user-attachments/assets/ad56c2c8-6482-4c7d-af3c-4c216827185d))
+![image](https://github.com/user-attachments/assets/d4265046-57a5-4587-bdb2-f16c6d10aef1)
+
 
 Rama 2 (feature2):
-![feature2](![image](https://github.com/user-attachments/assets/3145b626-f32b-475c-b799-440dada8d356))
+![image](https://github.com/user-attachments/assets/16c3a671-6f61-43e4-9597-ee1226aa2041)
+
 
 # Simulación de conflicto
 
